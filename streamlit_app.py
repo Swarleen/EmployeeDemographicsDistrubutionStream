@@ -1,3 +1,4 @@
+import streamlit as st
 import streamlit.components.v1 as components
 powerbi_embed_url = "https://app.powerbi.com/view?r=eyJrIjoiNDFlZGE5NmQtMzIyYy00NzYxLTkwZTktNjBlNTlkMTQ2NjAyIiwidCI6ImY2YmI1MjU3LTE1ZTEtNGUxYi1iY2U0LTNjNTVmMjEyNjU3MSJ9"
 st.markdown(
